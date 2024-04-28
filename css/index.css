@@ -49,7 +49,7 @@ header {
 
 /* 심볼 */
 #symbol{
-    margin-left: 800px;
+    margin-left: 900px;
     margin-top: 30px;
     width: 250px;
     height: 250px;
@@ -98,7 +98,7 @@ nav {
 /* 서브메뉴 */
 #back {
     /* display: none; */
-    width: 1678px;
+    width: 100vw;
     height: 300px;
     position: absolute;
     z-index: 10;
